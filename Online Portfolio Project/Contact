@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <style>
+            body {
+              margin: 0;
+              padding: 0;
+              box-sizing: boarder-box;
+              font-family: "Sofia", sans-serif;
+              font-size: 20px;
+              text-shadow: 3px 3px 3px #ababab;
+            }
+          </style>
+         <style></style><link
+         rel="stylesheet"
+         href="https://fonts.googleapis.com/css?family=Sofia"
+       />
+  </style>
+<title>Contact</title>
+  </head>
+<header> 
+    <img src="./CleanShot 2023-07-20 at 15.33.10@2x.png" height="95" />
+    <header> 
+   
+    <img src="./CleanShot 2023-07-20 at 15.33.00@2x.png"height="200" >
+ 
+</header>
+  <body>
+<h1>Contact Me</h1>
+<hr>
+<h3>Christial Johnson</h3>
+<h4>Arlington, Texas</h4>
+<h4>Phone Number: 512-888-2467</h4>
+<h4>Email: Christialjohnson1@gmail.com</h4>
+<h4><a href="https://www.linkedin.com/in/christial-johnson-0a8410b6">LinkedIn Resume</a>
+
+    
+</body>
+
+  </html>
